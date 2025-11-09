@@ -27,8 +27,8 @@
   "exclude": [
     "node_modules",
     "dist",
-    ".eslintrc.js",
-    ".eslintrc.js",
+    "eslint.config.cjs",
+    "eslint.config.cjs",
     ".env"
   ],
   "include": [
