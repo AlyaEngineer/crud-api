@@ -24,6 +24,18 @@ git switch develop
 npm install
 ```
 
+- Create an `.env` file in the root directory of the project. You can use the provided `.env.example` as a template:
+
+```bash
+cp .env.example .env
+```
+
+- Open the `.env` file and fill in the required environment variables:
+
+```bash
+PORT=value_of_port
+```
+
 - Start the development server:
 
 ```bash
